@@ -1126,3 +1126,731 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.09-18.04.50:884][633]SourceControl: Error: UnrealShotter115/Content/FirstPersonBP/Maps/Map1_BuiltData.uasset
 [2020.01.09-18.04.50:884][633]SourceControl: Error: Use -f if you really want to add them.
 [2020.01.09-18.04.52:105][642]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2020.01.09-18.42.35:619][506]LogSlate: Window 'Escoger clase padre' being destroyed
+[2020.01.09-18.42.38:126][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-18.42.45:518][944]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-18.42.53:714][327]LogSlate: Window 'Escoger clase padre' being destroyed
+[2020.01.09-18.46.33:294][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.01.09-18.46.34:910][816]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.09-18.46.35:318][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.01.09-18.46.46:149][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.01.09-18.46.46:150][363]LogMetaData: Removing '/Game/Blueprints/BP_Weapon.BP_Weapon:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2020.01.09-18.46.46:150][363]LogMetaData: Removing '/Game/Blueprints/BP_Weapon.SKEL_BP_Weapon_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2020.01.09-18.46.46:150][363]LogMetaData: Removing '/Game/Blueprints/BP_Weapon.BP_Weapon_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2020.01.09-18.46.46:150][363]LogMetaData: Removing '/Game/Blueprints/BP_Weapon.BP_Weapon:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2020.01.09-18.46.46:150][363]LogMetaData: Removing '/Game/Blueprints/BP_Weapon.BP_Weapon:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2020.01.09-18.46.46:150][363]LogMetaData: Removing '/Game/Blueprints/BP_Weapon.BP_Weapon:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2020.01.09-18.46.46:188][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Weapon" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Blueprints/BP_Weapon.uasset" SILENT=true
+[2020.01.09-18.46.46:455][363]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BP_WeaponBD396A7C4C2719082CCE15B990425031.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Blueprints/BP_Weapon.uasset'
+[2020.01.09-18.46.47:200][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.01.09-18.46.47:230][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.01.09-18.46.47:254][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.01.09-18.47.01:617][616]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Weapon.BP_Weapon
+[2020.01.09-18.47.04:740][616]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0260 seconds. Added 121 classes and 0 folders.
+[2020.01.09-18.47.16:107][817]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:200).
+[2020.01.09-18.47.17:277][885]LogSlate: Window 'BP_Weapon' being destroyed
+[2020.01.09-18.48.50:905][483]LogSlate: Took 0.055382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.09-18.50.16:473][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-18.53.25:998][353]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.01.09-18.53.25:998][353]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Map1' took 0.102
+[2020.01.09-18.53.26:000][353]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Weapon] ([1] browsable assets)...
+[2020.01.09-18.53.26:063][353]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Weapon.BP_Weapon]
+[2020.01.09-18.53.26:063][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Weapon]
+[2020.01.09-18.53.26:129][353]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BP_Weapon_Auto89214CD7B43DEE261B3211BBEA3B7D7D8.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Blueprints/BP_Weapon_Auto8.uasset'
+[2020.01.09-18.53.26:131][353]LogFileHelpers: Auto-saving content packages took 0.131
+[2020.01.09-18.53.33:431][376]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-18.54.57:843][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-18.55.34:990][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-18.56.26:779][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-18.56.35:627][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-18.57.19:105][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-18.58.10:042][164]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-18.58.35:933][486]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-18.58.46:293][ 90]LogEditorTransaction: Undo Modificar componente(s)
+[2020.01.09-18.58.47:096][135]LogEditorTransaction: Undo Modificar componente(s)
+[2020.01.09-18.58.48:733][232]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-18.58.55:301][626]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-18.59.01:052][971]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-18.59.05:576][242]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-18.59.08:696][429]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-18.59.16:453][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-18.59.26:858][519]LogEditorTransaction: Undo Modificar componente(s)
+[2020.01.09-18.59.28:586][621]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-18.59.31:005][766]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-18.59.37:529][157]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-18.59.40:368][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-19.00.09:752][727]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.00.16:346][122]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.00.23:317][540]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.00.48:483][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-19.03.26:487][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.01.09-19.03.26:487][484]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Map1' took 0.053
+[2020.01.09-19.03.26:489][484]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Weapon] ([1] browsable assets)...
+[2020.01.09-19.03.26:507][484]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Weapon.BP_Weapon]
+[2020.01.09-19.03.26:507][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Weapon]
+[2020.01.09-19.03.26:522][484]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BP_Weapon_Auto9D207209E481785A176FADAAC5A81EB4C.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Blueprints/BP_Weapon_Auto9.uasset'
+[2020.01.09-19.03.26:523][484]LogFileHelpers: Auto-saving content packages took 0.034
+[2020.01.09-19.03.29:902][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.01.09-19.03.33:057][684]LogSlate: Window 'Guardar contenido' being destroyed
+[2020.01.09-19.03.33:242][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Weapon" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Blueprints/BP_Weapon.uasset" SILENT=true
+[2020.01.09-19.03.33:267][684]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BP_Weapon7596678645166043848D03801411BF1A.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Blueprints/BP_Weapon.uasset'
+[2020.01.09-19.05.39:227][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-19.05.48:797][ 99]LogSlate: Window 'Escoger clase padre' being destroyed
+[2020.01.09-19.06.10:249][257]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_MainEnemy.BP_MainEnemy
+[2020.01.09-19.12.59:546][214]LogDirectoryWatcher: A directory notification failed for 'D:/UnrealProjects/ShotterGame115/UnrealShotter115/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.01.09-19.12.59:546][214]LogDirectoryWatcher: A directory notification failed for 'D:/UnrealProjects/ShotterGame115/UnrealShotter115/Content/Developers/FelipeGasca/Collections/' because it could not be accessed. Aborting watch request...
+[2020.01.09-19.12.59:546][214]LogDirectoryWatcher: A directory notification failed for 'D:/UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.01.09-19.13.26:735][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.01.09-19.13.26:759][295]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Map1_Auto04F780158419B29A65885F09F6AB13340.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/FirstPersonBP/Maps/Map1_Auto0.umap'
+[2020.01.09-19.13.26:761][295]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Map1' took 0.058
+[2020.01.09-19.13.26:761][295]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.058
+[2020.01.09-19.13.26:764][295]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_MainEnemy] ([1] browsable assets)...
+[2020.01.09-19.13.26:764][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MainEnemy]
+[2020.01.09-19.13.26:771][295]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BP_MainEnemy_Auto04E63A29642D46D25E517279A910C9C21.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Blueprints/BP_MainEnemy_Auto0.uasset'
+[2020.01.09-19.13.26:773][295]LogFileHelpers: Auto-saving content packages took 0.010
+[2020.01.09-19.14.29:291][365]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2020.01.09-19.14.29:302][365]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.14.29:356][365]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2020.01.09-19.14.30:131][365]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2020.01.09-19.14.30:131][365]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2020.01.09-19.14.30:131][365]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2020.01.09-19.14.30:131][365]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2020.01.09-19.14.30:131][365]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2020.01.09-19.14.30:131][365]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2020.01.09-19.14.30:131][365]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2020.01.09-19.14.30:369][365]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2020.01.09-19.14.30:467][365]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.09-19.14.30:851][365]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.09-19.14.30:915][365]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2020.01.09-19.14.31:327][365]LogSkeletalMesh: Built Skeletal Mesh [0.41s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2020.01.09-19.14.31:631][365]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.09-19.14.32:789][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-19.14.32:796][365]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2020.01.09-19.14.34:031][365]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.09-19.14.35:875][365]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.09-19.14.59:914][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-19.15.02:733][948]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2020.01.09-19.15.02:733][948]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.02:843][948]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.06:488][147]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2020.01.09-19.15.06:488][147]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.06:570][147]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.09:882][345]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2020.01.09-19.15.09:882][345]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.09:954][345]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.12:125][475]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2020.01.09-19.15.12:125][475]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1) using current/default (AnimCompress_BitwiseCompressOnly_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.12:200][475]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.15:929][695]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2020.01.09-19.15.15:930][695]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol) using current/default (AnimCompress_BitwiseCompressOnly_29) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.16:003][695]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.21:165][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-19.15.21:334][ 14]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2020.01.09-19.15.21:334][ 14]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.21:420][ 14]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.23:710][149]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2020.01.09-19.15.23:710][149]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.23:782][149]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.25:857][273]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2020.01.09-19.15.25:857][273]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.25:940][273]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.26:959][334]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2020.01.09-19.15.26:960][334]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.27:033][334]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.30:326][523]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle
+[2020.01.09-19.15.30:326][523]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle) using current/default (AnimCompress_BitwiseCompressOnly_45) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.30:419][523]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.33:527][707]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2020.01.09-19.15.33:528][707]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_53) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.33:646][707]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.38:827][ 17]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2020.01.09-19.15.38:827][ 17]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_58) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.38:892][ 17]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.44:748][368]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2020.01.09-19.15.44:748][368]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.44:815][368]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.47:672][539]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2020.01.09-19.15.47:672][539]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.15.47:739][539]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.15.49:190][623]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.17.12:976][152]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.17.13:214][152]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.17.13:421][152]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.18.24:859][328]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.19.00:673][221]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.19.25:564][858]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.20.13:369][541]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.20.38:423][ 61]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.09-19.20.50:581][655]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.09-19.20.50:841][655]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2020.01.09-19.20.50:876][655]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.01.09-19.20.50:876][655]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.20.50:880][655]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2020.01.09-19.20.50:880][655]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.20.50:918][655]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2020.01.09-19.20.50:918][655]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.20.50:921][655]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2020.01.09-19.20.50:921][655]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.20.50:923][655]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2020.01.09-19.20.50:923][655]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.20.50:925][655]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2020.01.09-19.20.50:925][655]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.23.27:769][374]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.01.09-19.23.27:769][374]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Map1' took 0.268
+[2020.01.09-19.23.27:772][374]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_MainEnemy] ([1] browsable assets)...
+[2020.01.09-19.23.27:795][374]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MainEnemy.BP_MainEnemy]
+[2020.01.09-19.23.27:795][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MainEnemy]
+[2020.01.09-19.23.27:812][374]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BP_MainEnemy_Auto1DD2182584E8A29532F7F8285B715313E.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Blueprints/BP_MainEnemy_Auto1.uasset'
+[2020.01.09-19.23.27:813][374]LogFileHelpers: Auto-saving content packages took 0.043
+[2020.01.09-19.49.13:562][ 97]LogTexture: Display: Building textures: T_Enemy_Elemental_M (AutoDXT, 1024X1024)
+[2020.01.09-19.49.13:563][ 97]LogTexture: Display: Building textures: T_Enemy_ElementalIce_D (AutoDXT, 1024X1024)
+[2020.01.09-19.49.13:563][ 97]LogTexture: Display: Building textures: T_Enemy_ElementalIce_N (BC5, 1024X1024)
+[2020.01.09-19.49.13:563][ 97]LogTexture: Display: Building textures: T_Enemy_ElementalFire_D (AutoDXT, 1024X1024)
+[2020.01.09-19.49.13:563][ 97]LogSkeletalMesh: Building Skeletal Mesh SK_Elemental_Boss_Robot...
+[2020.01.09-19.49.13:569][ 97]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/InfinityBladeAdversaries/Enemy/Elemental_Robot/SK_Elemental_Boss_Robot.SK_Elemental_Boss_Robot
+[2020.01.09-19.49.13:575][ 97]LogMaterial: Display: Missing cached shader map for material M_Elemental_Robot_Master, compiling. 
+[2020.01.09-19.49.13:782][ 97]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/InfinityBladeAdversaries/Enemy/Elemental_Robot/SK_Elemental_Boss_Robot.SK_Elemental_Boss_Robot
+[2020.01.09-19.49.13:963][ 97]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-19.49.22:384][522]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.49.36:473][333]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.49.58:090][597]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.49.59:101][656]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.49.59:665][683]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.50.29:750][276]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.51.20:950][ 35]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.01.09-19.51.20:950][ 35]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.01.09-19.51.20:950][ 35]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.01.09-19.51.20:950][ 35]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.01.09-19.51.33:027][ 35]LogPackageName: SearchForPackageOnDisk took  12.076s, but failed to resolve S_ClothTarps_03.
+[2020.01.09-19.51.33:027][ 35]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.01.09-19.51.33:027][ 35]LogPackageName: SearchForPackageOnDisk took  12.076s, but failed to resolve S_ClothTarps_03.
+[2020.01.09-19.51.33:027][ 35]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.01.09-19.51.33:116][ 35]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.01.09-19.51.33:116][ 35]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: SearchForPackageOnDisk took   0.216s, but failed to resolve S_ClothTarps_03.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: SearchForPackageOnDisk took   0.188s, but failed to resolve S_ClothTarps_03.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: SearchForPackageOnDisk took   0.201s, but failed to resolve S_ClothTarps_03.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: SearchForPackageOnDisk took   0.184s, but failed to resolve S_ClothTarps_03.
+[2020.01.09-19.51.36:912][ 38]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2020.01.09-19.51.39:529][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-19.51.39:811][197]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.51.53:324][996]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Aggro.ExoGame_Fire_Golem_Aggro
+[2020.01.09-19.51.53:324][996]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Aggro.ExoGame_Fire_Golem_Aggro) using current/default (AnimCompress_BitwiseCompressOnly_157) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.51.53:349][996]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Aggro.ExoGame_Fire_Golem_Aggro
+[2020.01.09-19.51.53:387][996]LogLinker: Warning: Error al cargar '{FileName}': No puede encontrar el archivo
+[2020.01.09-19.51.53:387][996]LogLinker: Warning: Error al cargar '{FileName}': No puede encontrar el archivo
+[2020.01.09-19.51.53:388][996]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/InfinityBladeAdversaries/Enemy/Enemy_BlackKnight/Enemy_BlackKnight.Enemy_BlackKnight'
+[2020.01.09-19.51.53:397][996]LogSkeletalMesh: Building Skeletal Mesh SK_Fire_Golem...
+[2020.01.09-19.51.53:406][996]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/SK_Fire_Golem.SK_Fire_Golem
+[2020.01.09-19.51.56:385][996]LogTexture: Display: Building textures: T_Golem_Gold_M (AutoDXT, 2048X2048)
+[2020.01.09-19.51.56:385][996]LogTexture: Display: Building textures: T_Golem_DGold (AutoDXT, 2048X2048)
+[2020.01.09-19.51.56:385][996]LogTexture: Display: Building textures: T_GolemGold_N (BC5, 2048X2048)
+[2020.01.09-19.51.56:385][996]LogMaterial: Display: Missing cached shader map for material CharM_Fire_Golem, compiling. 
+[2020.01.09-19.51.56:572][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-19.51.57:260][996]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.09-19.52.09:638][734]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Walk_FWD.ExoGame_Fire_Golem_Walk_FWD
+[2020.01.09-19.52.09:638][734]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Walk_FWD.ExoGame_Fire_Golem_Walk_FWD) using current/default (AnimCompress_BitwiseCompressOnly_187) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.52.19:042][291]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.52.19:067][291]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.52.19:133][291]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.52.37:581][162]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Enemy_Troll_Poison_Animation/ExoGame_Troll_Attack_Charge.ExoGame_Troll_Attack_Charge
+[2020.01.09-19.52.37:581][162]LogAnimationCompression: Recompressing (AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Enemy_Troll_Poison_Animation/ExoGame_Troll_Attack_Charge.ExoGame_Troll_Attack_Charge) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-19.52.37:942][162]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Enemy_Troll_Poison_Animation/ExoGame_Troll_Attack_Charge.ExoGame_Troll_Attack_Charge
+[2020.01.09-19.52.37:953][162]LogSkeletalMesh: Building Skeletal Mesh SK_Troll_Poison...
+[2020.01.09-19.52.37:956][162]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/SK_Troll_Poison.SK_Troll_Poison
+[2020.01.09-19.52.38:155][162]LogTexture: Display: Building textures: T_Troll_Poison_M (AutoDXT, 1024X1024)
+[2020.01.09-19.52.38:155][162]LogTexture: Display: Building textures: T_Troll_N (BC5, 1024X1024)
+[2020.01.09-19.52.38:156][162]LogTexture: Display: Building textures: T_Troll_Poison_D (AutoDXT, 1024X1024)
+[2020.01.09-19.52.38:863][162]LogMaterial: Display: Missing cached shader map for material CharM_Troll_Poison, compiling. 
+[2020.01.09-19.52.38:957][162]LogStaticMesh: Generando la malla estática SM_Troll_hammer...
+[2020.01.09-19.52.39:295][162]LogStaticMesh: Built static mesh [0.34s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Meshes/SM_Troll_hammer.SM_Troll_hammer
+[2020.01.09-19.52.39:351][162]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-19.52.40:116][162]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.09-19.52.49:852][742]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.52.49:889][742]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.52.49:969][742]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-19.53.07:130][624]LogTexture: Display: Building textures: T_CharM_Barbarous_MetalMask (DXT1, 2048X2048)
+[2020.01.09-19.53.07:130][624]LogTexture: Display: Building textures: T_CharM_Barbarous_D (DXT1, 2048X2048)
+[2020.01.09-19.53.07:130][624]LogTexture: Display: Building textures: T_CharM_Barbarous_N (BC5, 2048X2048)
+[2020.01.09-19.53.07:130][624]LogMaterial: Display: Missing cached shader map for material M_Char_Barbrous, compiling. 
+[2020.01.09-19.53.07:170][624]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Barbarous...
+[2020.01.09-19.53.07:175][624]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Barbarous.SK_CharM_Barbarous
+[2020.01.09-19.53.07:197][624]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Barbarous.SK_CharM_Barbarous
+[2020.01.09-19.53.07:223][624]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-19.54.16:506][206]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.54.17:969][282]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.01.09-19.54.17:988][282]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.54.18:319][282]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-19.54.18:505][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.01.09-19.54.19:518][282]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Map1B5EC016F442F9429BB768EB652164EE3.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/FirstPersonBP/Maps/Map1.umap'
+[2020.01.09-19.54.19:548][282]LogFileHelpers: Saving map 'Map1' took 1.198
+[2020.01.09-19.54.19:551][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainEnemy" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Blueprints/BP_MainEnemy.uasset" SILENT=true
+[2020.01.09-19.54.19:560][282]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BP_MainEnemyCB3086E549C6B8A0513EAA8F2C9F25EF.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Blueprints/BP_MainEnemy.uasset'
+[2020.01.09-19.54.40:551][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-19.55.26:477][714]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2020.01.09-19.55.26:683][714]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-19.55.27:112][714]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.09-19.55.37:558][868]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2020.01.09-19.55.37:583][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-19.55.37:777][868]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.09-19.58.50:117][514]LogSlate: Window 'Save Mapping' being destroyed
+[2020.01.09-19.58.50:636][514]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BoneMapping536431D9462EB40D96F4018957CC0E74.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/AnimStarterPack/UE4_Mannequin/Mesh/BoneMapping.uasset'
+[2020.01.09-19.58.53:025][629]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/UE4_Mannequin_Skeleton62DBFC9B4C08DF956722BE814AD7A73F.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.01.09-19.59.00:655][893]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.00.20:240][172]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2020.01.09-20.00.21:921][172]LogTexture: Display: Building textures: T_CharM_Warrior_JewelMask (AutoDXT, 2048X2048)
+[2020.01.09-20.00.21:921][172]LogTexture: Display: Building textures: T_CharM_WarriorB_Mask (AutoDXT, 2048X2048)
+[2020.01.09-20.00.21:921][172]LogTexture: Display: Building textures: T_CharM_Warrior_N (BC5, 2048X2048)
+[2020.01.09-20.00.21:921][172]LogTexture: Display: Building textures: T_CharM_WarriorB_D (DXT1, 2048X2048)
+[2020.01.09-20.00.21:921][172]LogMaterial: Display: Missing cached shader map for material M_Char_Warrior_B, compiling. 
+[2020.01.09-20.00.21:967][172]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Warrior...
+[2020.01.09-20.00.21:970][172]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Warrior.SK_CharM_Warrior
+[2020.01.09-20.00.21:988][172]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-20.00.46:356][449]LogSlate: Window 'Save Mapping' being destroyed
+[2020.01.09-20.00.46:447][449]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BoneMappingA007F9564169B6BE75A467B3583CCDB7.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Character/CompleteCharacters/BoneMapping.uasset'
+[2020.01.09-20.00.49:211][589]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/SK_Mannequin_Skeleton0998870E48EA5D4F801CFC9A11D050CF.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2020.01.09-20.01.43:374][277]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.01.45:066][370]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.01.45:105][370]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.01.45:430][370]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.02.09:395][385]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.01.09-20.02.39:529][869]LogTexture: Display: Building textures: T_Gruntling_M (AutoDXT, 1024X1024)
+[2020.01.09-20.02.39:529][869]LogTexture: Display: Building textures: T_Gruntling_Emissive (AutoDXT, 1024X1024)
+[2020.01.09-20.02.39:529][869]LogTexture: Display: Building textures: T_Gruntling_Guardian_N (BC5, 2048X2048)
+[2020.01.09-20.02.39:529][869]LogTexture: Display: Building textures: T_Gruntling_Guardian_D (AutoDXT, 1024X1024)
+[2020.01.09-20.02.40:090][869]LogSkeletalMesh: Building Skeletal Mesh SK_Exodus_Gruntling...
+[2020.01.09-20.02.40:092][869]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/SK_Exodus_Gruntling.SK_Exodus_Gruntling
+[2020.01.09-20.02.40:095][869]LogMaterial: Display: Missing cached shader map for material CharM_Gruntling, compiling. 
+[2020.01.09-20.03.07:799][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BS_CrouchWalk" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/BS_CrouchWalk.uasset" SILENT=true
+[2020.01.09-20.03.07:812][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BS_CrouchWalk1EF880464C575993412D5084441057E6.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/BS_CrouchWalk.uasset'
+[2020.01.09-20.03.08:948][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Idle_Rifle_Hip" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Crouch_Idle_Rifle_Hip.uasset" SILENT=true
+[2020.01.09-20.03.08:997][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Idle_Rifle_HipE11FCDA84274F288DA07B38B036C806E.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Crouch_Idle_Rifle_Hip.uasset'
+[2020.01.09-20.03.10:197][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Idle_Rifle_Hip" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Idle_Rifle_Hip.uasset" SILENT=true
+[2020.01.09-20.03.10:209][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Idle_Rifle_HipE8A175604AB4394A5327498A18E6145A.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Idle_Rifle_Hip.uasset'
+[2020.01.09-20.03.11:265][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jump_From_Jog" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Jump_From_Jog.uasset" SILENT=true
+[2020.01.09-20.03.11:278][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jump_From_Jog36363A164A116EB47493F390480B82B4.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Jump_From_Jog.uasset'
+[2020.01.09-20.03.12:327][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jump_From_Stand" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Jump_From_Stand.uasset" SILENT=true
+[2020.01.09-20.03.12:338][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jump_From_Stand5968492D46F47FD62D8DCA893974B1CC.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Jump_From_Stand.uasset'
+[2020.01.09-20.03.13:288][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BS_Jog" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/BS_Jog.uasset" SILENT=true
+[2020.01.09-20.03.13:303][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BS_Jog364745974E36A6163FCD738C6C2DCD70.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/BS_Jog.uasset'
+[2020.01.09-20.03.14:337][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Bwd_Rifle_Hip" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Crouch_Walk_Bwd_Rifle_Hip.uasset" SILENT=true
+[2020.01.09-20.03.14:349][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Walk_Bwd_Rifle_HipD0C5297F4493E91E277E0DA3F00F3094.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2020.01.09-20.03.15:204][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Lt_Rifle_Hip" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Crouch_Walk_Lt_Rifle_Hip.uasset" SILENT=true
+[2020.01.09-20.03.15:219][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Walk_Lt_Rifle_Hip1559E9EF4AD8C22FB825A4802BC10742.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2020.01.09-20.03.16:239][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Fwd_Rifle_Hip" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Crouch_Walk_Fwd_Rifle_Hip.uasset" SILENT=true
+[2020.01.09-20.03.16:252][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Walk_Fwd_Rifle_Hip621352A24A814C6A0619898C47323871.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2020.01.09-20.03.17:136][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Rt_Rifle_Hip" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Crouch_Walk_Rt_Rifle_Hip.uasset" SILENT=true
+[2020.01.09-20.03.17:149][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Walk_Rt_Rifle_HipCDA009A34AE763B230323A8DF878F912.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2020.01.09-20.03.18:268][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jog_Bwd_Rifle" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Jog_Bwd_Rifle.uasset" SILENT=true
+[2020.01.09-20.03.18:280][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jog_Bwd_RifleB7C79CDE4F69A8B9FB706CAFDE872693.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Jog_Bwd_Rifle.uasset'
+[2020.01.09-20.03.19:122][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jog_Lt_Rifle" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Jog_Lt_Rifle.uasset" SILENT=true
+[2020.01.09-20.03.19:134][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jog_Lt_RifleD4C1A76D4FB16E51D6CCCDBC9E467F75.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Jog_Lt_Rifle.uasset'
+[2020.01.09-20.03.19:842][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jog_Fwd_Rifle" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Jog_Fwd_Rifle.uasset" SILENT=true
+[2020.01.09-20.03.19:856][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jog_Fwd_Rifle47CB526F4A85855BED94FA9479939131.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Jog_Fwd_Rifle.uasset'
+[2020.01.09-20.03.20:666][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jog_Rt_Rifle" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Jog_Rt_Rifle.uasset" SILENT=true
+[2020.01.09-20.03.20:678][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jog_Rt_RifleF24CFD81454D0EDB9821A1A9D173DDBC.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Jog_Rt_Rifle.uasset'
+[2020.01.09-20.03.21:357][445]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.01.09-20.03.21:608][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UE4ASP_HeroTPP_AnimBlueprint" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/UE4ASP_HeroTPP_AnimBlueprint.uasset" SILENT=true
+[2020.01.09-20.03.21:915][445]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/UE4ASP_HeroTPP_AnimBlueprint51FAD9334CF56310460A5AAD801CB959.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2020.01.09-20.03.22:436][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2020.01.09-20.03.22:436][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:446][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2020.01.09-20.03.22:446][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:453][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2020.01.09-20.03.22:453][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:460][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2020.01.09-20.03.22:460][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:463][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2020.01.09-20.03.22:463][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:465][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2020.01.09-20.03.22:466][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:468][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2020.01.09-20.03.22:468][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:471][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2020.01.09-20.03.22:471][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:485][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2020.01.09-20.03.22:485][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:492][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2020.01.09-20.03.22:492][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:507][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2020.01.09-20.03.22:507][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:512][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2020.01.09-20.03.22:512][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:528][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.01.09-20.03.22:528][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:533][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.01.09-20.03.22:533][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:549][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.01.09-20.03.22:549][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:558][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.01.09-20.03.22:558][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:571][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jump_From_Jog.Jump_From_Jog
+[2020.01.09-20.03.22:571][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jump_From_Jog.Jump_From_Jog) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:573][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jump_From_Jog.Jump_From_Jog
+[2020.01.09-20.03.22:573][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jump_From_Jog.Jump_From_Jog) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:577][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jump_From_Jog.Jump_From_Jog
+[2020.01.09-20.03.22:577][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jump_From_Jog.Jump_From_Jog) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:579][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jump_From_Jog.Jump_From_Jog
+[2020.01.09-20.03.22:579][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jump_From_Jog.Jump_From_Jog) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:585][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jump_From_Stand.Jump_From_Stand
+[2020.01.09-20.03.22:585][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jump_From_Stand.Jump_From_Stand) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:586][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jump_From_Stand.Jump_From_Stand
+[2020.01.09-20.03.22:586][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jump_From_Stand.Jump_From_Stand) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:592][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jump_From_Stand.Jump_From_Stand
+[2020.01.09-20.03.22:592][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jump_From_Stand.Jump_From_Stand) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:594][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jump_From_Stand.Jump_From_Stand
+[2020.01.09-20.03.22:594][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jump_From_Stand.Jump_From_Stand) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:600][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2020.01.09-20.03.22:600][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jog_Bwd_Rifle.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:608][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2020.01.09-20.03.22:608][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jog_Lt_Rifle.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:614][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2020.01.09-20.03.22:614][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:619][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2020.01.09-20.03.22:619][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jog_Rt_Rifle.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:622][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2020.01.09-20.03.22:622][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jog_Bwd_Rifle.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:624][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2020.01.09-20.03.22:624][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jog_Lt_Rifle.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:625][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2020.01.09-20.03.22:625][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:626][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2020.01.09-20.03.22:626][445]LogAnimationCompression: Recompressing (AnimSequence /Game/Jog_Rt_Rifle.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.03.22:980][445]LogSlate: Window 'Seleccionar esqueleto' being destroyed
+[2020.01.09-20.03.22:994][445]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.03.23:010][445]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.04.18:392][610]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2020.01.09-20.04.18:392][610]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Map1' took 0.055
+[2020.01.09-20.04.18:395][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2020.01.09-20.04.18:395][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2020.01.09-20.04.18:416][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/UE4_Mannequin_Skeleton_Auto2D94DA68E47817BE7145B72900E63B0F5.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto2.uasset'
+[2020.01.09-20.04.18:418][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2020.01.09-20.04.18:418][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton]
+[2020.01.09-20.04.18:426][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/SK_Mannequin_Skeleton_Auto257F3021E48A6A93646FAA39A101D4D8A.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto2.uasset'
+[2020.01.09-20.04.18:428][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BS_CrouchWalk] ([1] browsable assets)...
+[2020.01.09-20.04.18:447][610]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/BS_CrouchWalk.BS_CrouchWalk]
+[2020.01.09-20.04.18:448][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/BS_CrouchWalk]
+[2020.01.09-20.04.18:448][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BS_CrouchWalk" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/BS_CrouchWalk_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.01.09-20.04.18:463][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BS_CrouchWalk_Auto2CA454AFD4A8B152918B448AAECAEA6E2.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/BS_CrouchWalk_Auto2.uasset'
+[2020.01.09-20.04.18:464][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Idle_Rifle_Hip] ([1] browsable assets)...
+[2020.01.09-20.04.18:481][610]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip]
+[2020.01.09-20.04.18:482][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Idle_Rifle_Hip]
+[2020.01.09-20.04.18:500][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Idle_Rifle_Hip_Auto2A54483C9476533E345B7A39F6CF3B465.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Crouch_Idle_Rifle_Hip_Auto2.uasset'
+[2020.01.09-20.04.18:503][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Idle_Rifle_Hip] ([1] browsable assets)...
+[2020.01.09-20.04.18:519][610]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip]
+[2020.01.09-20.04.18:519][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Idle_Rifle_Hip]
+[2020.01.09-20.04.18:519][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Idle_Rifle_Hip" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Idle_Rifle_Hip_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.01.09-20.04.18:538][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Idle_Rifle_Hip_Auto2FA6208DE4105A01363FC4EBD961610CF.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Idle_Rifle_Hip_Auto2.uasset'
+[2020.01.09-20.04.18:539][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jump_From_Jog] ([1] browsable assets)...
+[2020.01.09-20.04.18:559][610]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Jump_From_Jog.Jump_From_Jog]
+[2020.01.09-20.04.18:560][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jump_From_Jog]
+[2020.01.09-20.04.18:560][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jump_From_Jog" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Jump_From_Jog_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.01.09-20.04.18:573][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jump_From_Jog_Auto268C6A4BA4F640497D2E0AE8A5B75DE7D.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Jump_From_Jog_Auto2.uasset'
+[2020.01.09-20.04.18:576][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jump_From_Stand] ([1] browsable assets)...
+[2020.01.09-20.04.18:596][610]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Jump_From_Stand.Jump_From_Stand]
+[2020.01.09-20.04.18:596][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jump_From_Stand]
+[2020.01.09-20.04.18:597][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jump_From_Stand" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Jump_From_Stand_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.01.09-20.04.18:612][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jump_From_Stand_Auto2812C89984BD495B9F6073FAB13570788.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Jump_From_Stand_Auto2.uasset'
+[2020.01.09-20.04.18:613][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BS_Jog] ([1] browsable assets)...
+[2020.01.09-20.04.18:630][610]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/BS_Jog.BS_Jog]
+[2020.01.09-20.04.18:630][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/BS_Jog]
+[2020.01.09-20.04.18:630][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BS_Jog" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/BS_Jog_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.01.09-20.04.18:689][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BS_Jog_Auto276FFBA7340139A22050C2D82827B07F7.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/BS_Jog_Auto2.uasset'
+[2020.01.09-20.04.18:692][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Crouch_Walk_Bwd_Rifle_Hip] ([1] browsable assets)...
+[2020.01.09-20.04.18:692][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Bwd_Rifle_Hip]
+[2020.01.09-20.04.18:698][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Walk_Bwd_Rifle_Hip_Auto284FA34B244B8189586678D82E7FA444A.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Crouch_Walk_Bwd_Rifle_Hip_Auto2.uasset'
+[2020.01.09-20.04.18:699][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Crouch_Walk_Lt_Rifle_Hip] ([1] browsable assets)...
+[2020.01.09-20.04.18:700][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Lt_Rifle_Hip]
+[2020.01.09-20.04.18:705][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Walk_Lt_Rifle_Hip_Auto229A934454E13E758CF3491988D36AE65.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Crouch_Walk_Lt_Rifle_Hip_Auto2.uasset'
+[2020.01.09-20.04.18:708][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Crouch_Walk_Fwd_Rifle_Hip] ([1] browsable assets)...
+[2020.01.09-20.04.18:708][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Fwd_Rifle_Hip]
+[2020.01.09-20.04.18:714][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Walk_Fwd_Rifle_Hip_Auto2265A707D4262AA66CC4C54ABAAFD9E95.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Crouch_Walk_Fwd_Rifle_Hip_Auto2.uasset'
+[2020.01.09-20.04.18:715][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Crouch_Walk_Rt_Rifle_Hip] ([1] browsable assets)...
+[2020.01.09-20.04.18:715][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Rt_Rifle_Hip]
+[2020.01.09-20.04.18:722][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Walk_Rt_Rifle_Hip_Auto2A2D1000345B8AE29EE6B34BF55B590F0.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Crouch_Walk_Rt_Rifle_Hip_Auto2.uasset'
+[2020.01.09-20.04.18:726][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Jog_Bwd_Rifle] ([1] browsable assets)...
+[2020.01.09-20.04.18:726][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jog_Bwd_Rifle]
+[2020.01.09-20.04.18:726][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jog_Bwd_Rifle" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Jog_Bwd_Rifle_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.01.09-20.04.18:732][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jog_Bwd_Rifle_Auto2B19C9D6041B0C6EBB3E3E79AC2A9F93E.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Jog_Bwd_Rifle_Auto2.uasset'
+[2020.01.09-20.04.18:733][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Jog_Lt_Rifle] ([1] browsable assets)...
+[2020.01.09-20.04.18:733][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jog_Lt_Rifle]
+[2020.01.09-20.04.18:733][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jog_Lt_Rifle" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Jog_Lt_Rifle_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.01.09-20.04.18:739][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jog_Lt_Rifle_Auto2A78ECF5E4E95A6D0299F3296470BE3E2.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Jog_Lt_Rifle_Auto2.uasset'
+[2020.01.09-20.04.18:742][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Jog_Fwd_Rifle] ([1] browsable assets)...
+[2020.01.09-20.04.18:742][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jog_Fwd_Rifle]
+[2020.01.09-20.04.18:742][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jog_Fwd_Rifle" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Jog_Fwd_Rifle_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.01.09-20.04.18:748][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jog_Fwd_Rifle_Auto25899C2514C2CE856761FDDB8C0756822.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Jog_Fwd_Rifle_Auto2.uasset'
+[2020.01.09-20.04.18:750][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Jog_Rt_Rifle] ([1] browsable assets)...
+[2020.01.09-20.04.18:750][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jog_Rt_Rifle]
+[2020.01.09-20.04.18:750][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jog_Rt_Rifle" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Jog_Rt_Rifle_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.01.09-20.04.18:759][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jog_Rt_Rifle_Auto27ED6BC164A4A4DE911F1A582BE601D0D.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Jog_Rt_Rifle_Auto2.uasset'
+[2020.01.09-20.04.18:761][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UE4ASP_HeroTPP_AnimBlueprint] ([1] browsable assets)...
+[2020.01.09-20.04.18:779][610]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint]
+[2020.01.09-20.04.18:779][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/UE4ASP_HeroTPP_AnimBlueprint]
+[2020.01.09-20.04.18:884][610]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/UE4ASP_HeroTPP_AnimBlueprint_AutC900337C4D0B6E3C96DF5CB986783A76.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/UE4ASP_HeroTPP_AnimBlueprint_Auto2.uasset'
+[2020.01.09-20.04.18:885][610]LogFileHelpers: Auto-saving content packages took 0.492
+[2020.01.09-20.05.40:107][850]LogAnimation: Warning: AnimBP UE4ASP_HeroTPP_AnimBlueprint_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2020.01.09-20.06.55:946][827]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2020.01.09-20.06.55:946][827]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_1.Death_1) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.06.55:962][827]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2020.01.09-20.06.55:962][827]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_2.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.06.55:975][827]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2020.01.09-20.06.55:975][827]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_3.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.06.55:991][827]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2020.01.09-20.06.55:991][827]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.06.56:016][827]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2020.01.09-20.06.56:016][827]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1) using current/default (AnimCompress_BitwiseCompressOnly_31) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.11:255][438]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.01.09-20.07.23:584][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Death_1" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Death_1.uasset" SILENT=true
+[2020.01.09-20.07.23:597][936]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Death_1007192CB41D68DF07FAA108B9C4C9BF7.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Death_1.uasset'
+[2020.01.09-20.07.24:631][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Death_2" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Death_2.uasset" SILENT=true
+[2020.01.09-20.07.24:642][936]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Death_2264F2BD840B1523927BD7095E717CD96.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Death_2.uasset'
+[2020.01.09-20.07.25:685][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Death_3" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Death_3.uasset" SILENT=true
+[2020.01.09-20.07.25:697][936]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Death_31CA1DE6743D6B9FC8E1A439F0CBBF621.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Death_3.uasset'
+[2020.01.09-20.07.26:738][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hit_React_1" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Hit_React_1.uasset" SILENT=true
+[2020.01.09-20.07.26:748][936]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Hit_React_1E55FA55B4CDA31928E3E1D9C8FEA560C.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Hit_React_1.uasset'
+[2020.01.09-20.07.27:897][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Idle_Rifle_Hip_Break1" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Idle_Rifle_Hip_Break1.uasset" SILENT=true
+[2020.01.09-20.07.27:911][936]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Idle_Rifle_Hip_Break1B8D18D6D4C85F0488AD6239CFA28884D.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Idle_Rifle_Hip_Break1.uasset'
+[2020.01.09-20.07.28:386][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Death_1.Death_1
+[2020.01.09-20.07.28:386][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Death_1.Death_1) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:388][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Death_1.Death_1
+[2020.01.09-20.07.28:388][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Death_1.Death_1) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:395][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Death_1.Death_1
+[2020.01.09-20.07.28:395][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Death_1.Death_1) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:398][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Death_1.Death_1
+[2020.01.09-20.07.28:398][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Death_1.Death_1) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:404][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Death_2.Death_2
+[2020.01.09-20.07.28:404][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Death_2.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:407][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Death_2.Death_2
+[2020.01.09-20.07.28:407][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Death_2.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:414][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Death_2.Death_2
+[2020.01.09-20.07.28:414][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Death_2.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:417][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Death_2.Death_2
+[2020.01.09-20.07.28:417][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Death_2.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:424][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Death_3.Death_3
+[2020.01.09-20.07.28:424][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Death_3.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:426][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Death_3.Death_3
+[2020.01.09-20.07.28:427][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Death_3.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:435][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Death_3.Death_3
+[2020.01.09-20.07.28:435][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Death_3.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:437][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Death_3.Death_3
+[2020.01.09-20.07.28:437][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Death_3.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:444][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Hit_React_1.Hit_React_1
+[2020.01.09-20.07.28:444][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Hit_React_1.Hit_React_1) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:445][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Hit_React_1.Hit_React_1
+[2020.01.09-20.07.28:445][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Hit_React_1.Hit_React_1) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:450][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Hit_React_1.Hit_React_1
+[2020.01.09-20.07.28:450][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Hit_React_1.Hit_React_1) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:451][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Hit_React_1.Hit_React_1
+[2020.01.09-20.07.28:451][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Hit_React_1.Hit_React_1) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:462][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2020.01.09-20.07.28:462][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1) using current/default (AnimCompress_BitwiseCompressOnly_31) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:465][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2020.01.09-20.07.28:465][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1) using current/default (AnimCompress_BitwiseCompressOnly_31) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:475][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2020.01.09-20.07.28:475][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1) using current/default (AnimCompress_BitwiseCompressOnly_31) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:480][936]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2020.01.09-20.07.28:480][936]LogAnimationCompression: Recompressing (AnimSequence /Game/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1) using current/default (AnimCompress_BitwiseCompressOnly_31) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.09-20.07.28:496][936]LogSlate: Window 'Seleccionar esqueleto' being destroyed
+[2020.01.09-20.07.28:498][936]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.07.28:513][936]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.07.38:573][142]LogAnimation: Warning: AnimBP UE4ASP_HeroTPP_AnimBlueprint_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Crouching' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Jumping' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Enable Jump' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Direction' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Speed' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Crouching' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Jumping' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Enable Jump' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Direction' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Speed' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:484][386]LogMetaData: Removing '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.08.24:536][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BS_CrouchWalk36627B4D4F8428FCB7EDFBBA35632CA1.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/BS_CrouchWalk.uasset'
+[2020.01.09-20.08.24:865][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/BS_Jog" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/BS_Jog.uasset" SILENT=true
+[2020.01.09-20.08.24:878][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BS_Jog8B0A6CFC48D4FB0A1E6FAE974E02141F.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/BS_Jog.uasset'
+[2020.01.09-20.08.25:297][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Idle_Rifle_Hip1E1028E34C155E0921F734899DFD05CB.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Crouch_Idle_Rifle_Hip.uasset'
+[2020.01.09-20.08.25:641][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Walk_Bwd_Rifle_Hip590B860E44D0D17A265577B6DDE18BB5.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2020.01.09-20.08.25:944][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Walk_Fwd_Rifle_Hip49D9F25C4B24F210B15F3FBEAAB7630B.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2020.01.09-20.08.26:333][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Walk_Lt_Rifle_Hip6A53519D4A176B43FAB625B3A3B070C5.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2020.01.09-20.08.26:611][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Crouch_Walk_Rt_Rifle_HipEB3330C8428264CB3BD74EB20011713A.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2020.01.09-20.08.26:902][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/Death_1" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Death_1.uasset" SILENT=true
+[2020.01.09-20.08.26:922][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Death_1B4D9111D4C659638FF8978B8133674AF.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Death_1.uasset'
+[2020.01.09-20.08.27:210][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/Death_2" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Death_2.uasset" SILENT=true
+[2020.01.09-20.08.27:223][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Death_2C3D379894F583D4522833394FF5A2CCC.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Death_2.uasset'
+[2020.01.09-20.08.27:504][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/Death_3" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Death_3.uasset" SILENT=true
+[2020.01.09-20.08.27:520][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Death_3B592FE304190C64AF2A9EEB3DB19EB3B.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Death_3.uasset'
+[2020.01.09-20.08.28:119][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/Hit_React_1" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Hit_React_1.uasset" SILENT=true
+[2020.01.09-20.08.28:133][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Hit_React_1049D937F47B134D8D56BFDA5703BA633.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Hit_React_1.uasset'
+[2020.01.09-20.08.28:409][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Idle_Rifle_HipE78487284C11686F17F8C0B709DB13C3.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Idle_Rifle_Hip.uasset'
+[2020.01.09-20.08.28:711][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Idle_Rifle_Hip_Break10B5575374BAC9E3C981649B3E15AF709.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Idle_Rifle_Hip_Break1.uasset'
+[2020.01.09-20.08.28:991][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jog_Bwd_Rifle618A06D247AA6DFD1002D2A051163E6B.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Jog_Bwd_Rifle.uasset'
+[2020.01.09-20.08.29:278][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jog_Fwd_RifleA094D7774CA532C7F668A1921351E2C5.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Jog_Fwd_Rifle.uasset'
+[2020.01.09-20.08.29:616][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jog_Lt_RifleA4B1F02A4B358321DAF3F2A74AFAAD61.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Jog_Lt_Rifle.uasset'
+[2020.01.09-20.08.30:034][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jog_Rt_Rifle34B88B6D4EE2F5CD57FDFDBDB95D97D0.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Jog_Rt_Rifle.uasset'
+[2020.01.09-20.08.30:360][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jump_From_Jog4ADEC6CA4710B5C9C3FC05993E40F0B1.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Jump_From_Jog.uasset'
+[2020.01.09-20.08.30:677][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Jump_From_StandE764EA0245D6C5B7A143D0AF7D970A7A.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/Jump_From_Stand.uasset'
+[2020.01.09-20.08.31:174][386]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/UE4ASP_HeroTPP_AnimBlueprint11BCB51B486958911011AD8423D04021.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2020.01.09-20.08.39:452][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.01.09-20.08.39:489][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.09-20.08.39:531][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.01.09-20.08.39:567][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.01.09-20.08.39:602][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.01.09-20.08.39:638][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.01.09-20.08.39:679][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.01.09-20.08.39:715][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.01.09-20.08.39:754][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.01.09-20.08.39:792][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.01.09-20.08.39:829][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.01.09-20.08.39:869][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.01.09-20.08.39:909][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.01.09-20.08.39:945][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.01.09-20.08.39:979][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.01.09-20.08.40:015][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.01.09-20.08.40:052][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.01.09-20.08.40:092][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.01.09-20.08.40:130][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.01.09-20.08.40:167][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.01.09-20.08.40:207][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.01.09-20.08.40:243][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/BS_CrouchWalk.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/BS_Jog.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Crouch_Idle_Rifle_Hip.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Death_1.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Death_2.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Death_3.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Hit_React_1.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Idle_Rifle_Hip.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Idle_Rifle_Hip_Break1.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Jog_Bwd_Rifle.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Jog_Fwd_Rifle.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Jog_Lt_Rifle.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Jog_Rt_Rifle.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Jump_From_Jog.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/Jump_From_Stand.uasset'
+[2020.01.09-20.08.40:486][386]SourceControl: rm 'UnrealShotter115/Content/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2020.01.09-20.09.28:452][108]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.01.09-20.09.28:456][108]LogMetaData: Removing '/Game/InfinityBladeWarriors/BP_Anim_Enemy.BP_Anim_Enemy_C' ref from Metadata '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.09.28:456][108]LogMetaData: Removing '/Game/InfinityBladeWarriors/BP_Anim_Enemy.SKEL_BP_Anim_Enemy_C' ref from Metadata '/Game/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.01.09-20.09.28:602][108]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BP_Anim_Enemy5C8121CC40351D503438DDB8074C6057.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/InfinityBladeWarriors/BP_Anim_Enemy.uasset'
+[2020.01.09-20.09.29:772][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.01.09-20.09.29:816][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.01.09-20.09.29:855][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.01.09-20.09.30:074][108]SourceControl: rm 'UnrealShotter115/Content/InfinityBladeWarriors/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2020.01.09-20.09.32:145][203]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/InfinityBladeWarriors/BP_Anim_Enemy.BP_Anim_Enemy
+[2020.01.09-20.09.32:160][203]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-20.10.21:666][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-20.10.21:839][  6]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.10.21:844][  6]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.10.21:938][  6]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.10.32:566][635]LogEditorTransaction: Undo Modificar componente(s)
+[2020.01.09-20.10.32:917][635]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-20.10.33:121][636]LogEditorTransaction: Undo Select Rig
+[2020.01.09-20.10.33:187][636]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-20.10.36:697][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-20.10.40:860][ 39]LogTexture: Display: Building textures: T_Robo_Golem_M (AutoDXT, 2048X2048)
+[2020.01.09-20.10.40:860][ 39]LogTexture: Display: Building textures: T_Robo_Golem_N (AutoDXT, 2048X2048)
+[2020.01.09-20.10.40:860][ 39]LogSkeletalMesh: Building Skeletal Mesh SK_Robo_Golem...
+[2020.01.09-20.10.40:869][ 39]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/SK_Robo_Golem.SK_Robo_Golem
+[2020.01.09-20.10.42:830][ 39]LogTexture: Display: Building textures: T_Robo_Golem_D (AutoDXT, 2048X2048)
+[2020.01.09-20.10.45:286][ 39]LogMaterial: Display: Missing cached shader map for material CharM_Robo_Golem, compiling. 
+[2020.01.09-20.10.45:338][ 39]LogAnimation: Warning: AnimBP UE4ASP_HeroTPP_AnimBlueprint_C is incompatible with skeleton SK_Robo_Golem_Skeleton, removing AnimBP from actor.
+[2020.01.09-20.10.45:338][ 39]LogAnimation: Warning: AnimBP UE4ASP_HeroTPP_AnimBlueprint_C is incompatible with skeleton SK_Robo_Golem_Skeleton, removing AnimBP from actor.
+[2020.01.09-20.10.45:338][ 39]LogAnimation: Warning: AnimBP UE4ASP_HeroTPP_AnimBlueprint_C is incompatible with skeleton SK_Robo_Golem_Skeleton, removing AnimBP from actor.
+[2020.01.09-20.10.48:711][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-20.10.57:244][736]LogSkeletalMesh: Building Skeletal Mesh SK_Enemy_FrostGiant_Captain...
+[2020.01.09-20.10.57:260][736]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Frost_Giant/SK_Enemy_FrostGiant_Captain.SK_Enemy_FrostGiant_Captain
+[2020.01.09-20.11.00:976][736]LogTexture: Display: Building textures: T_Enemy_FrostGiant_M (AutoDXT, 2048X2048)
+[2020.01.09-20.11.00:976][736]LogTexture: Display: Building textures: T_Enemy_FrostGiant_N (BC5, 2048X2048)
+[2020.01.09-20.11.00:976][736]LogTexture: Display: Building textures: T_Enemy_FrostGiant_D (AutoDXT, 2048X2048)
+[2020.01.09-20.11.00:976][736]LogMaterial: Display: Missing cached shader map for material CharM_Frost_Giant, compiling. 
+[2020.01.09-20.11.20:177][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-20.11.24:911][ 39]LogTexture: Display: Building textures: T_CharM_Bladed_MetalMask1 (AutoDXT, 2048X2048)
+[2020.01.09-20.11.24:911][ 39]LogTexture: Display: Building textures: T_CharM_Bladed_D (DXT1, 2048X2048)
+[2020.01.09-20.11.24:911][ 39]LogTexture: Display: Building textures: T_CharM_Bladed_N (BC5, 2048X2048)
+[2020.01.09-20.11.24:911][ 39]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Bladed...
+[2020.01.09-20.11.24:926][ 39]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Bladed.SK_CharM_Bladed
+[2020.01.09-20.11.24:932][ 39]LogMaterial: Display: Missing cached shader map for material M_CharM_Bladed, compiling. 
+[2020.01.09-20.13.08:115][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-20.13.08:121][498]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.09-20.13.14:445][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-20.13.25:521][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-20.14.19:279][100]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-20.14.19:350][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.01.09-20.14.19:350][100]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Map1' took 0.049
+[2020.01.09-20.14.19:352][100]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_MainEnemy] ([1] browsable assets)...
+[2020.01.09-20.14.19:369][100]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MainEnemy.BP_MainEnemy]
+[2020.01.09-20.14.19:369][100]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MainEnemy]
+[2020.01.09-20.14.19:388][100]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BP_MainEnemy_Auto3D7FBEF904D897D0F23BC1E9117312FE8.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/Blueprints/BP_MainEnemy_Auto3.uasset'
+[2020.01.09-20.14.19:390][100]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2020.01.09-20.14.19:390][100]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2020.01.09-20.14.19:400][100]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/UE4_Mannequin_Skeleton_Auto3CE53C4B14BA582B8A62E2C9BEDEC0659.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto3.uasset'
+[2020.01.09-20.14.19:402][100]LogFileHelpers: Auto-saving content packages took 0.050
+[2020.01.09-20.14.21:495][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-20.14.31:535][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-20.14.41:480][386]Cmd: TRANSACTION UNDO
+[2020.01.09-20.14.41:480][386]LogEditorTransaction: Undo Rotate Actors
+[2020.01.09-20.14.41:548][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-20.14.51:576][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-20.14.51:742][996]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-20.14.51:791][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPersonBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2020.01.09-20.14.51:956][996]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.09-20.14.51:957][996]LogPlayLevel: [PlayLevel] Compiling BP_Weapon before play...
+[2020.01.09-20.14.52:288][996]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.01.09-20.14.52:288][996]LogPlayLevel: PlayLevel: Blueprint regeneration took 332 ms (1 blueprints)
+[2020.01.09-20.14.52:352][996]PIE: New page: Sesión PIE (reproducción en el editor): Map1 (09/01/2020 08:14:52)
+[2020.01.09-20.14.52:401][996]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Map1
+[2020.01.09-20.14.52:604][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.202675s)
+[2020.01.09-20.14.52:669][996]LogAIModule: Creating AISystem for world Map1
+[2020.01.09-20.14.52:750][996]LogPlayLevel: PIE: World Init took: (0.145879s)
+[2020.01.09-20.14.52:750][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Map1.Map1 to /Game/FirstPersonBP/Maps/UEDPIE_0_Map1.Map1 (0.348972s)
+[2020.01.09-20.14.52:801][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.01.09-20.14.52:996][996]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-20.14.53:028][996]LogInit: FAudioDevice initialized.
+[2020.01.09-20.14.53:299][996]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.09-20.14.53:392][996]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.01.09-14.14.53
+[2020.01.09-20.14.53:756][996]LogWorld: Bringing up level for play took: 0.455136
+[2020.01.09-20.14.53:771][996]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.01.09-20.14.54:101][996]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonBP/Maps/UEDPIE_0_Map1 3.052
+[2020.01.09-20.14.54:101][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPersonBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2020.01.09-20.15.11:320][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPersonBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2020.01.09-20.15.11:320][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-20.15.11:320][  6]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Map1
+[2020.01.09-20.15.11:349][  6]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-20.15.11:388][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-20.15.11:388][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPersonBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2020.01.09-20.15.11:562][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-20.15.11:638][  6]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.01.09-20.15.11:653][  7]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.01.09-20.15.19:003][285]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-20.15.20:593][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.01.09-20.15.20:609][378]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-20.15.21:068][378]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-20.15.21:117][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.01.09-20.15.21:355][378]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/Map1F983F818491F9D30E3E184A7001E32B4.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/FirstPersonBP/Maps/Map1.umap'
+[2020.01.09-20.15.21:376][378]LogFileHelpers: Saving map 'Map1' took 0.299
+[2020.01.09-20.15.21:380][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainEnemy" FILE="../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Blueprints/BP_MainEnemy.uasset" SILENT=true
+[2020.01.09-20.15.21:388][378]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/BP_MainEnemyF25E12534BF9BD5299EF1ABCF9316EDB.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/Blueprints/BP_MainEnemy.uasset'
+[2020.01.09-20.15.21:402][378]LogSavePackage: Moving '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Saved/UE4_Mannequin_Skeleton0732ADD34366AD1015AA49A0F424A2F8.tmp' to '../../../../../../UnrealProjects/ShotterGame115/UnrealShotter115/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.01.09-20.17.45:413][873]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{5151a6fb-c691-426b-861f-fe994d3b75f8} was removed. Shutting down audio device.
+[2020.01.09-20.17.45:413][873]LogInit: No audio devices found!
